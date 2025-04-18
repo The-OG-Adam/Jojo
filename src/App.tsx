@@ -1,8 +1,4 @@
-I apologize for the oversight. Let's ensure that we keep the existing command sections intact while adding the new features and enhancements. Below is the complete code for `App.tsx`, which includes the original command sections along with the new features you requested, such as animations, a custom cursor, a pet that follows the cursor, and additional sections like "Meet the Founder," "About Us," and legal pages.
 
-### Updated `App.tsx`
-
-```typescript
 import React, { useState, useEffect } from 'react';
 import { Bot, Music, Shield, Gamepad2, Sparkles, Command, ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
